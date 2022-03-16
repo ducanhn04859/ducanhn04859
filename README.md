@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ducanhn04859
 - 👀 I’m interested in NodeJS
-- 🌱 I’m currently learning Information System
+- 🌱 I’m currently working as Automation Tester
 - 📫 ducanhn.work@gmail.com
 
 <!---
